@@ -2,15 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
-    <title> Dungeons & Dragons </title>
-    <link rel="stylesheet" href="css/stule.css">
-    <style>
-        body {
-            background: url(обоинавизитку.jpg); /* Цвет фона и путь к файлу */
-            color: black; /* Цвет текста */
-        }
-        </style>
-</head>
+   </head>
 <body>
     <div align="center">
         <ul id="navbar">
